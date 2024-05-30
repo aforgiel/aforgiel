@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aforgiel
 - 👀 I’m interested in SaaS business solutions targeting small companies willing to jump into the Digital Age!
-- 🌱 I’m currently learning DDD, micro-service architecture, Windows UWP
+- 🌱 I’m currently learning DDD, micro-service architecture, Windows UWP, while brushing up my MacOS AppKit skills in Objective-C
 - 💞️ I’m looking to collaborate on C++/WinRT non-XAML based projects to create dynamic interfaces
 - 📫 How to reach me arnaud.forgiel@outlook.com
 
