@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @aforgiel
-- 🚀 I’m building EXPERVAL, a SaaS platform for small businesses, with a strong focus on project management, planning and earned value management.
-- 🏗️ I design and build distributed software architectures using C++, Domain-Driven Design, microservices and REST APIs.
-- 🖥️ I develop native desktop applications for macOS and Windows, with a custom cross-platform C++ UI layer backed by AppKit and C++/WinRT UWP.
-- ☁️ I enjoy working across the whole stack — from UI and business-domain modelling to backend services, persistence, Docker infrastructure and third-party integrations.
-- 🔬 I’m particularly interested in software architecture, scheduling and optimization, data visualization, and building complex systems without unnecessary complexity.
-- 🤝 I’m always happy to exchange ideas about modern C++, native UI development and software architecture.
-- 📫 How to reach me: arnaud.forgiel@outlook.com
+## Hi, I’m Arnaud 👋
 
-<!---
-aforgiel/aforgiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m the founder of **EXPERVAL** and the developer behind **EVA**, a project management platform for general contractors. EVA helps contractors turn an accepted quote into a baseline schedule, track actual progress against it, and give clients a clear view of where the project stands from quote to handover.
+
+### What I’m building
+
+- **Native desktop apps for macOS and Windows** with a shared C++ UI layer backed by AppKit and C++/WinRT.
+- **Distributed services** built in C++ using domain-driven design, microservices, and REST APIs.
+- **Project planning and progress tracking** that connect estimating, scheduling, and earned value management.
+
+I enjoy working across the stack, from modelling how construction projects are planned and delivered to designing the interfaces people use to manage them. I’m particularly interested in scheduling, optimization, and data visualization.
+
+I’m always happy to exchange ideas about modern C++, native UI development, and software architecture.
+
+[EXPERVAL](https://experval.pro) · [Email me](mailto:arnaud.forgiel@outlook.com)
